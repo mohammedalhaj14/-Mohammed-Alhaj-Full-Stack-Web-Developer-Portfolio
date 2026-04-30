@@ -2,93 +2,97 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Quick Links
 
-* [About](https://www.google.com/search?q=%23about)
-* [Live Demo](https://www.google.com/search?q=%23-live-demo)
-* [Features](https://www.google.com/search?q=%23features)
-* [Tech Stack](https://www.google.com/search?q=%23tech-stack)
-* [Projects](https://www.google.com/search?q=%23projects)
-* [Performance & SEO](https://www.google.com/search?q=%23-seo--performance)
-* [Contact](https://www.google.com/search?q=%23-contact)
-* [License](https://www.google.com/search?q=%23-license)
+* [About](#about)
+* [Live Demo](#live-demo)
+* [Features](#features)
+* [Tech Stack](#tech-stack)
+* [Projects](#projects)
+* [Contact](#contact)
 
 ---
 
 ## 🎯 About
 
-Welcome to my professional portfolio! I'm **Mohammed Alhaj**, a passionate **Full Stack Web Developer** based in Lebanon. I specialize in building scalable, user-centric web applications and professional-grade digital experiences. This portfolio showcases my latest work across various technologies and industries.
+Welcome to my professional portfolio! I'm **Mohammed Alhaj**, a passionate **Full Stack Web Developer** based in Lebanon. I specialize in building scalable, user-centric web applications with modern technologies.
 
 **Key Highlights:**
-
 * 17+ production-ready projects
-* Full-stack development expertise (React, Laravel, MySQL)
-* AI/ML integration experience (Gemini API)
+* Full-stack expertise (React, Laravel, MySQL)
+* AI integration experience (Gemini API)
 * E-commerce & SaaS solutions
-* Modern glassmorphism UI/UX design
+* Modern, responsive UI/UX design
 
 ---
 
 ## 🌐 Live Demo
 
-Experience the interactive, high-performance version of this portfolio live:
+Experience the interactive portfolio:
 **[👉 Visit Live Portfolio](https://mohammedalhaj14.github.io/-Mohammed-Alhaj-Full-Stack-Web-Developer-Portfolio/)**
 
 ---
 
 ## ✨ Features
 
-### 🎨 Design & UX
+### Design & UX
+* Modern Dark Theme with premium aesthetics
+* Glassmorphism UI patterns
+* Fully Responsive across all devices
+* Smooth animations and transitions
 
-* **Modern Dark Theme** – Eye-friendly design with premium gradient accents.
-* **Glassmorphism UI** – Contemporary design patterns with blurred transparency.
-* **Fully Responsive** – Flawless experience across mobile, tablet, and desktop.
-* **Smooth Animations** – Professional transitions powered by AOS and Animate.css.
-
-### 🚀 Performance & SEO
-
-* **Lightning Fast** – Optimized asset delivery for sub-2s load times.
-* **SEO Optimized** – Strategic meta tags and structured data for search visibility.
-* **Lazy Loading** – On-demand image loading to save bandwidth.
-* **Accessibility** – WCAG-compliant elements and keyboard-friendly navigation.
+### Performance
+* Optimized for fast load times
+* SEO optimized with structured data
+* Lazy loading for images
+* WCAG accessibility compliance
 
 ---
 
 ## 💻 Tech Stack
 
 ### Frontend
-
-* **HTML5 & CSS3** – Semantic structure and modern layouts (Flexbox/Grid).
-* **JavaScript (ES6+)** – Modular logic and interactive DOM features.
-* **Bootstrap 5** – Responsive grid system and professional UI components.
-* **React.js** – Component-based architecture for dynamic interfaces.
+* HTML5 & CSS3 with Flexbox/Grid
+* JavaScript ES6+
+* React.js
+* Bootstrap 5 & Tailwind CSS
 
 ### Backend & Tools
-
-* **PHP & Laravel** – Robust server-side logic and API management.
-* **MySQL** – Relational database architecture and optimization.
-* **Git & GitHub** – Professional version control and CI/CD workflows.
-* **Gemini AI API** – Integration of intelligent AI-driven features.
+* PHP & Laravel
+* MySQL Database
+* Node.js
+* Google Gemini AI API
 
 ---
 
 ## 🚀 Projects
 
-This portfolio highlights **17+ professional projects**, including:
+This portfolio includes 14+ featured projects:
 
-1. **BookBot** – A Laravel-based bookstore system with integrated AI assistance.
-2. **MNAQISH.OZ** – A modern bakery site with a full admin dashboard for menu control.
-3. **Digital Time Hub** – A suite of productivity tools (Clock, Tally Counter, Alarm).
-4. **MathPro** – An advanced learning engine for multi-operational mathematics.
-5. **Smart Restaurant Menu** – A React-based menu with direct WhatsApp ordering.
+1. **Media E-Commerce Platform** - Full-stack marketplace with Stripe payments
+2. **BookBot** - Laravel bookstore with AI assistant
+3. **Institution Management** - Educational system with role-based access
+4. **CodeNet** - Tech agency built with Next.js
+5. **Restaurant Menu App** - React-based ordering system
+6. **MNAQISH.OZ** - Lebanese bakery website
+7. **NITROGEAR** - Sports e-commerce store
+8. **Nexus SaaS** - High-conversion landing page
+9. **NEXUS.OS** - Quantum terminal aesthetic site
+10. **Fitex** - Fitness club website
+11. **Weather App** - Real-time weather updates
+12. **Glass Calculator** - Calculator with Glassmorphism design
+13. **Time Hub Pro** - Multi-functional dashboard
+14. **MathPro Engine** - Interactive learning tool
 
 ---
 
 ## 📬 Contact
 
-**Mohammed Alhaj** – [mohammedalhaj14@gmail.com](mailto:mohammedalhaj14@gmail.com)
-
-Project Link: [https://github.com/mohammedalhaj14](https://github.com/mohammedalhaj14)
+**Mohammed Alhaj**
+* Email: [mohammedalhaj14@gmail.com](mailto:mohammedalhaj14@gmail.com)
+* Phone: +96176724176
+* GitHub: [github.com/mohammedalhaj14](https://github.com/mohammedalhaj14)
+* WhatsApp: [+96176724176](https://wa.me/96176724176)
 
 ---
 
