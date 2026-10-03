@@ -1,0 +1,123 @@
+// All translatable text. Arrays are matched by index with the arrays in data.js.
+export const L = {
+  en: {
+    dir: 'ltr',
+    title: 'Mohammad Al Haj — Full-Stack Web Developer (Remote)',
+    switchLabel: 'العربية', switchAria: 'Switch language to Arabic',
+    remote: 'Available for remote work',
+    nav: { about: 'About', experience: 'Experience', projects: 'Projects', learning: 'Education', contact: 'Contact', cv: 'CV' },
+    hero: {
+      pre: "Hi, I'm", name: 'Mohammad Al Haj', post: '. I build web apps end to end, remotely.',
+      lead: 'From database schema to the interface people click. 8 years shipping e-commerce, SaaS and education platforms with Laravel, React, Next.js and Node, working with distributed teams from Lebanon.',
+      cv: 'Download CV', view: 'View projects', alt: 'Portrait of Mohammad Al Haj',
+    },
+    about: {
+      label: 'About', h2: 'Results-driven, across the whole stack.',
+      p1: 'I specialize in scalable, high-converting digital solutions, with 17+ commercial projects delivered across e-commerce, SaaS and education.',
+      p2: "My toolkit covers React, Next.js, Node, Laravel, PHP, REST APIs, Stripe and AI integrations. I've worked remotely for my entire career, so async communication, clear written updates and self-managed delivery are second nature.",
+    },
+    stats: ['commercial projects', 'concurrent users supported', 'conversion improvement', 'optimized load time'],
+    exp: {
+      label: 'Experience', h2: "Where I've worked.", remote: 'Remote',
+      jobs: [
+        { title: 'Full-Stack Web Developer — TripoCode', text: 'Built full-stack web applications and custom digital solutions: responsive interfaces, scalable APIs, secure systems and database-driven platforms, from development to deployment.' },
+        { title: 'Full-Stack Web Developer — Top Coder', text: 'Developed and deployed apps with React, Laravel, PHP, MySQL and JavaScript. Delivered role-based management systems, API integrations and Stripe payments, from requirements to production.' },
+      ],
+    },
+    proj: {
+      label: 'Featured projects', h2: 'Top five builds.',
+      cta: { src: 'Source', demo: 'Live demo', all: 'Browse all' },
+      items: [
+        { name: 'Media E-Commerce Platform', text: 'Secure auth, session-based cart and Stripe checkout.' },
+        { name: 'BookBot — AI Bookstore', text: 'Dual-role bookstore with an AI clerk that recommends from session history.' },
+        { name: 'Institution Management System', text: 'Role-based access for admin, staff and students, with attendance tracking.' },
+        { name: 'CodeNet Tech Agency', text: 'Service showcase and academy platform for a software agency.' },
+        { name: 'Time Hub Pro Dashboard', text: 'Clock, countdown timer and tally counter in one dashboard.' },
+        { name: 'More on GitHub', text: 'Bakery site, sports store, SaaS landing, fitness site, weather app, calculator, MathPro and restaurant menu.' },
+      ],
+    },
+    more: {
+      label: 'Also built', h2: 'Smaller builds — landing pages, storefront templates and tools.',
+      sub: 'Practice work and freelance-style briefs, each shipped and live.', live: 'Live demo',
+      items: [
+        { name: 'Restaurant Menu App', text: 'Digital menu with category filtering, cart and WhatsApp ordering.' },
+        { name: 'MNAQISH.OZ — Lebanese Bakery', text: 'Brand-led site for a bakery, with a homepage slider and full menu system.' },
+        { name: 'NITROGEAR — Sports Store', text: 'Dark, athlete-focused storefront with dynamic filtering and product catalog.' },
+        { name: 'Nexus — SaaS Landing', text: 'Conversion-focused landing page with WhatsApp lead delivery.' },
+        { name: 'NEXUS.OS — Quantum Terminal', text: 'Enterprise landing concept with a matrix data-rain background and CLI-style nav.' },
+        { name: 'Fitex — Fitness Club', text: 'Responsive fitness club site with smooth animations and interactive sliders.' },
+        { name: 'Weather App', text: 'Real-time weather by city search, no API key required for the user.' },
+        { name: 'Glass Calculator', text: 'Glassmorphism calculator with light/dark themes and history tracking.' },
+        { name: 'MathPro Engine', text: 'Timed math quiz engine with a 30-second pressure mode and instant feedback.' },
+      ],
+    },
+    edu: { label: 'Education', items: [['Teaching Diploma in Computer Science', 'University of Balamand'], ['Bachelor in Computer Science', 'University of Balamand']] },
+    certs: {
+      label: 'Certificates',
+      items: [['OOP in Python', 'Barbish Institution'], ['Back-End Web Development', 'Barbish Institution'], ['JavaScript & Algorithms', 'freeCodeCamp'],
+        ['Responsive Web Design', 'freeCodeCamp'], ['Digital Marketing', 'Barbish Institution'], ['Android App Development (MIT App Inventor)', 'DOT Lebanon']],
+    },
+    contact: { h2: "Hiring remotely? Let's build something together.", email: 'Email', whatsapp: 'WhatsApp', cv: 'Download my CV' },
+    footer: 'Mohammad Al Haj · Tripoli, Lebanon · Remote worldwide',
+  },
+  ar: {
+    dir: 'rtl',
+    title: 'محمد الحاج — مطوّر ويب Full-Stack (عن بُعد)',
+    switchLabel: 'English', switchAria: 'تغيير اللغة إلى الإنجليزية',
+    remote: 'متاح للعمل عن بُعد',
+    nav: { about: 'نبذة', experience: 'الخبرات', projects: 'المشاريع', learning: 'التعليم', contact: 'تواصل', cv: 'السيرة' },
+    hero: {
+      pre: 'مرحباً، أنا', name: 'محمد الحاج', post: '. أبني تطبيقات الويب من الألف إلى الياء، عن بُعد.',
+      lead: 'من تصميم قاعدة البيانات إلى الواجهة التي يتفاعل معها المستخدم. ثماني سنوات في تنفيذ منصات التجارة الإلكترونية وSaaS والتعليم باستخدام Laravel وReact وNext.js وNode، بالعمل مع فرق موزّعة من لبنان.',
+      cv: 'تحميل السيرة الذاتية', view: 'عرض المشاريع', alt: 'صورة شخصية لمحمد الحاج',
+    },
+    about: {
+      label: 'نبذة', h2: 'شغوف بتحويل الأفكار إلى منتجات رقمية تصنع الفارق.',
+      p1: 'أتخصص في بناء حلول رقمية قابلة للتوسع وعالية التحويل، وقد نفّذت أكثر من 17 مشروعاً تجارياً في التجارة الإلكترونية وSaaS والتعليم.',
+      p2: 'تشمل أدواتي React وNext.js وNode وLaravel وPHP وواجهات REST وStripe وتكاملات الذكاء الاصطناعي. عملتُ عن بُعد طوال مسيرتي المهنية، لذا فالتواصل غير المتزامن والتحديثات المكتوبة الواضحة والتسليم المنضبط ذاتياً جزء من عملي اليومي.',
+    },
+    stats: ['مشروعاً تجارياً', 'مستخدم متزامن يدعمه النظام', 'تحسّن في معدل التحويل', 'زمن تحميل محسّن'],
+    exp: {
+      label: 'الخبرات', h2: 'أين عملت.', remote: 'عن بُعد',
+      jobs: [
+        { title: 'مطوّر ويب Full-Stack — TripoCode', text: 'طوّرتُ تطبيقات ويب متكاملة وحلولاً رقمية مخصصة: واجهات متجاوبة وواجهات برمجية قابلة للتوسع وأنظمة آمنة ومنصات قائمة على قواعد البيانات، من التطوير حتى النشر.' },
+        { title: 'مطوّر ويب Full-Stack — Top Coder', text: 'طوّرتُ ونشرتُ تطبيقات باستخدام React وLaravel وPHP وMySQL وJavaScript. نفّذتُ أنظمة إدارة بصلاحيات حسب الأدوار وتكاملات API وحلول دفع Stripe، من تحليل المتطلبات حتى الإنتاج.' },
+      ],
+    },
+    proj: {
+      label: 'أبرز المشاريع', h2: 'أفضل خمسة مشاريع.',
+      cta: { src: 'معاينة مباشرة', demo: 'معاينة مباشرة', all: 'تصفّح الكل' },
+      items: [
+        { name: 'منصة تجارة إلكترونية للوسائط', text: 'مصادقة آمنة وسلة مشتريات قائمة على الجلسات ودفع عبر Stripe.' },
+        { name: 'BookBot — متجر كتب بالذكاء الاصطناعي', text: 'متجر كتب بدورين (عميل ومدير) مع موظف ذكي يقترح الكتب اعتماداً على سجل الجلسة.' },
+        { name: 'نظام إدارة المؤسسات التعليمية', text: 'صلاحيات حسب الدور للمدير والموظفين والطلاب، مع تتبّع الحضور.' },
+        { name: 'وكالة CodeNet التقنية', text: 'عرض للخدمات ومنصة أكاديمية لوكالة برمجيات.' },
+        { name: 'لوحة Time Hub Pro', text: 'ساعة ومؤقّت عدّ تنازلي وعدّاد في لوحة واحدة.' },
+        { name: 'المزيد على GitHub', text: 'موقع مخبز، متجر رياضي، صفحة هبوط SaaS، موقع نادٍ رياضي، تطبيق طقس، آلة حاسبة، MathPro وقائمة مطعم.' },
+      ],
+    },
+    more: {
+      label: 'مشاريع أخرى', h2: 'مشاريع أصغر — صفحات هبوط وقوالب متاجر وأدوات.',
+      sub: 'أعمال تدريبية ومشاريع بأسلوب العمل الحر، جميعها منشورة وتعمل.', live: 'معاينة مباشرة',
+      items: [
+        { name: 'تطبيق قائمة مطعم', text: 'قائمة رقمية مع تصفية حسب الفئة وسلة طلبات وإرسال الطلب عبر واتساب.' },
+        { name: 'MNAQISH.OZ — مخبز لبناني', text: 'موقع بهوية بصرية لمخبز، مع سلايدر للصفحة الرئيسية ونظام قائمة طعام كامل.' },
+        { name: 'NITROGEAR — متجر رياضي', text: 'واجهة متجر داكنة موجّهة للرياضيين، مع تصفية ديناميكية وكتالوج منتجات.' },
+        { name: 'Nexus — صفحة هبوط SaaS', text: 'صفحة هبوط تركّز على التحويل، مع إرسال بيانات العملاء المحتملين عبر واتساب.' },
+        { name: 'NEXUS.OS — Quantum Terminal', text: 'تصوّر لصفحة هبوط مؤسسية بخلفية مطر بيانات على طريقة Matrix وتنقّل بنمط سطر الأوامر.' },
+        { name: 'Fitex — نادٍ رياضي', text: 'موقع نادٍ رياضي متجاوب مع حركات سلسة وسلايدرات تفاعلية.' },
+        { name: 'تطبيق الطقس', text: 'حالة الطقس لحظياً عبر البحث باسم المدينة، دون الحاجة لمفتاح API من المستخدم.' },
+        { name: 'آلة حاسبة زجاجية', text: 'آلة حاسبة بأسلوب Glassmorphism مع وضعين فاتح وداكن وسجل للعمليات.' },
+        { name: 'MathPro Engine', text: 'محرّك اختبارات رياضيات بالوقت، مع وضع ضغط لمدة 30 ثانية وتغذية راجعة فورية.' },
+      ],
+    },
+    edu: { label: 'التعليم', items: [['دبلوم التعليم في علوم الحاسوب', 'جامعة البلمند'], ['بكالوريوس في علوم الحاسوب', 'جامعة البلمند']] },
+    certs: {
+      label: 'الشهادات',
+      items: [['البرمجة كائنية التوجه في Python', 'Barbish Institution'], ['تطوير الويب (الواجهة الخلفية)', 'Barbish Institution'], ['JavaScript والخوارزميات', 'freeCodeCamp'],
+        ['تصميم الويب المتجاوب', 'freeCodeCamp'], ['التسويق الرقمي', 'Barbish Institution'], ['تطوير تطبيقات أندرويد (MIT App Inventor)', 'DOT Lebanon']],
+    },
+    contact: { h2: 'توظّفون عن بُعد؟ لنبنِ شيئاً رائعاً معاً.', email: 'البريد الإلكتروني', whatsapp: 'واتساب', cv: 'حمّل سيرتي الذاتية' },
+    footer: 'محمد الحاج · طرابلس، لبنان · متاح عن بُعد حول العالم',
+  },
+}
