@@ -2,7 +2,7 @@
 
 Full-stack developer (Laravel, React, Next.js, Node.js) with 17+ commercial projects delivered across e-commerce, SaaS and education. Working remotely since 2018 and **available for remote work**.
 
-**Portfolio:** https://mohammed-alhaj-full-stack-web-developer-portfolio-ks8yw9pvp.vercel.app
+**Portfolio:** https://mohammed-alhaj-full-stack-web-devel-one.vercel.app/
 **Languages:** English and Arabic (العربية), with a one-click switch in the navbar.
 **CV:** download it from the portfolio, or from `public/Mohammad_Al_Haj_CV.pdf` in this repo.
 
